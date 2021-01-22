@@ -1,0 +1,34 @@
+.jumbotron {
+    background: url(https://media.istockphoto.com/vectors/vector-colourful-overlapping-hand-drawn-corona-virus-germs-seamless-vector-id1205100718) no-repeat center;
+    background-size: cover;
+}
+
+.jumbotron h1 {
+    color: antiquewhite;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-size: 70px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.jumbotron p {
+    color: antiquewhite;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.well { 
+    background-color: #3379b7;
+}
+
+.well h5 {
+    color: antiquewhite;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+}
+
+.panel-title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    color: antiquewhite;
+}
